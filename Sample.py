@@ -1,6 +1,6 @@
 mylist = []
 for i in range(0,20,2):
-        mylist.appened(i)
+        mylist.append(i)
 
 print(mylist)
 
