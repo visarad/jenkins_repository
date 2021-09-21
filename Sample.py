@@ -9,4 +9,4 @@ print(mylist)
 #*************************************************
 mylist = [i for i in range(0,200,10)]
 
-print(mylist*mylist)
+print(mylist + mylist)
